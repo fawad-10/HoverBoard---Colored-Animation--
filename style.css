@@ -27,6 +27,7 @@ html {
 
   margin-bottom: 2rem;
   display: inline-block;
+  height: 100vh;
 }
 
 .body {
