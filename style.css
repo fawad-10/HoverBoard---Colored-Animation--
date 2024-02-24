@@ -31,11 +31,11 @@ html {
 
 .body {
   margin: 0 auto;
-  height: 100vh;
+  height: 100vh !important;
   background: linear-gradient(90deg, #111111e7, rgba(12, 21, 39, 0.801), #111),
     url(img/rainbow-circles.jpg);
   background-size: cover;
-  height: 100vh;
+
   background-position: center;
   display: grid;
   grid-template-rows: 1fr 5fr;
