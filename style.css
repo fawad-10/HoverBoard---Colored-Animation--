@@ -13,13 +13,13 @@
 }
 
 html {
-  font-size: 62.5% /*10/16*/;
+  font-size: 41.5% /*10/16*/;
 }
 
 .alert {
   background-color: #ddd;
-  font-size: 20px;
-  width: 200px;
+  font-size: 2rem;
+  width: 20rem;
 }
 
 .hoverboard {
@@ -85,9 +85,9 @@ nav {
 
 #container {
   justify-self: center;
-  max-width: 600px;
+  max-width: 60rem;
   /* height: 70vh; */
-  border-radius: 11px;
+  border-radius: 1.1rem;
   display: flex;
   align-items: center;
   justify-content: center;
